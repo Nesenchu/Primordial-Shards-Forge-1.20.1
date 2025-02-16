@@ -1,3 +1,14 @@
 {
-  "item.nesenmod.cryostalingot": "Морозний Злиток"
+  "item.nesenmod.cryostalingot": "Морозний Злиток",
+  "item.nesenmod.cryostalnugget": "Морозний Самородок",
+  "item.nesenmod.pyroclastingot": "Пірокластовий Злиток",
+  "item.nesenmod.pyroclastnugget": "Пірокластовий Самородок",
+  "item.nesenmod.cryostalpickaxe": "Морозна Кирка",
+  "item.nesenmod.pyroclastaxe": "Пірокластова Сокира",
+  "item.nesenmod.pyroclasthoe": "Пірокластова Мотика",
+  "item.nesenmod.pyroclastpickaxe": "Пірокластова Кирка",
+  "item.nesenmod.pyroclastshovel": "Пірокластова Лопата",
+  "item.nesenmod.pyroclastsword": "Пірокластовий Меч",
+
+  "creativetab.primordial_tab": "Первісні уламки"
 }

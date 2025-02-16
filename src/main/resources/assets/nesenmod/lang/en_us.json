@@ -1,3 +1,14 @@
 {
-  "item.nesenmod.cryostalingot": "Cryostal Ingot"
+  "item.nesenmod.cryostalingot": "Cryostal Ingot",
+  "item.nesenmod.cryostalnugget": "Cryostal Nugget",
+  "item.nesenmod.pyroclastingot": "Pyroclast Ingot",
+  "item.nesenmod.pyroclastnugget": "Pyroclast Nugget",
+  "item.nesenmod.cryostalpickaxe": "Cryostal Pickaxe",
+  "item.nesenmod.pyroclastaxe": "Pyroclast Axe",
+  "item.nesenmod.pyroclasthoe": "Pyroclast Hoe",
+  "item.nesenmod.pyroclastpickaxe": "Pyroclast Pickaxe",
+  "item.nesenmod.pyroclastshovel": "Pyroclast Shovel",
+  "item.nesenmod.pyroclastsword": "Pyroclast Sword",
+
+  "creativetab.primordial_tab": "Primordial Shards"
 }

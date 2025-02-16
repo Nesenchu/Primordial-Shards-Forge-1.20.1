@@ -19,4 +19,33 @@ public class ModItems {
     public static final RegistryObject<Item> CRYOSTAL_INGOT = ITEMS.register("cryostalingot",
             ()-> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> CRYOSTAL_NUGGET = ITEMS.register("cryostalnugget",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> CRYOSTAL_PICKAXE = ITEMS.register("cryostalpickaxe",
+            ()-> new Item(new Item.Properties()));
+
+
+
+    public static final RegistryObject<Item> PYROCLAST_INGOT = ITEMS.register("pyroclastingot",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> PYROCLAST_NUGGET = ITEMS.register("pyroclastnugget",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> PYROCLAST_AXE = ITEMS.register("pyroclastaxe",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> PYROCLAST_HOE = ITEMS.register("pyroclasthoe",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> PYROCLAST_PICKAXE = ITEMS.register("pyroclastpickaxe",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> PYROCLAST_SHOVEL = ITEMS.register("pyroclastshovel",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> PYROCLAST_SWORD = ITEMS.register("pyroclastsword",
+            ()-> new Item(new Item.Properties()));
+
 }

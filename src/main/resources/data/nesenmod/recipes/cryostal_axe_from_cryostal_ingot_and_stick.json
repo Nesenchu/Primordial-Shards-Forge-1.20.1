@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "С": {
+      "item": "nesenmod:cryostalingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " CC",
+    " SC",
+    " S "
+  ],
+  "result": {
+    "item": "minecraft:cryostalaxe"
+  },
+  "show_notification": true
+}

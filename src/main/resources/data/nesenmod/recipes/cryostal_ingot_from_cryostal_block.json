@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nesenmod:cryostal_block"
+    }
+  ],
+  "result": {
+    "item": "nesenmod:cryostalingot",
+    "count": 9
+  }
+}

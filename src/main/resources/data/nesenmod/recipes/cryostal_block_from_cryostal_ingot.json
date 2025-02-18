@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "nesenmod:cryostalingot"
+    }
+  },
+  "result": {
+    "item": "nesenmod:cryostal_block",
+    "result": 1
+  }
+}

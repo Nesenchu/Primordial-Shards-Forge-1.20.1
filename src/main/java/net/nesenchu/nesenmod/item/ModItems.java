@@ -22,7 +22,19 @@ public class ModItems {
     public static final RegistryObject<Item> CRYOSTAL_NUGGET = ITEMS.register("cryostalnugget",
             ()-> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> CRYOSTAL_AXE = ITEMS.register("cryostalaxe",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> CRYOSTAL_HOE = ITEMS.register("cryostalhoe",
+            ()-> new Item(new Item.Properties()));
+
     public static final RegistryObject<Item> CRYOSTAL_PICKAXE = ITEMS.register("cryostalpickaxe",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> CRYOSTAL_SHOVEL = ITEMS.register("cryostalshovel",
+            ()-> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> CRYOSTAL_SWORD = ITEMS.register("cryostalsword",
             ()-> new Item(new Item.Properties()));
 
 

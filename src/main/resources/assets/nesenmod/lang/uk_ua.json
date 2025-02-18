@@ -1,14 +1,24 @@
 {
-  "item.nesenmod.cryostalingot": "Морозний Злиток",
-  "item.nesenmod.cryostalnugget": "Морозний Самородок",
+  "item.nesenmod.cryostalingot": "Криосталевий Злиток",
+  "item.nesenmod.cryostalnugget": "Криосталевий Самородок",
+  "item.nesenmod.cryostalaxe": "Криосталева Сокира",
+  "item.nesenmod.cryostalhoe": "Криосталева Мотика",
+  "item.nesenmod.cryostalpickaxe": "Криосталева Кирка",
+  "item.nesenmod.cryostalshovel": "Криосталева Лопата",
+  "item.nesenmod.cryostalsword": "Криосталевий Меч",
   "item.nesenmod.pyroclastingot": "Пірокластовий Злиток",
   "item.nesenmod.pyroclastnugget": "Пірокластовий Самородок",
-  "item.nesenmod.cryostalpickaxe": "Морозна Кирка",
   "item.nesenmod.pyroclastaxe": "Пірокластова Сокира",
   "item.nesenmod.pyroclasthoe": "Пірокластова Мотика",
   "item.nesenmod.pyroclastpickaxe": "Пірокластова Кирка",
   "item.nesenmod.pyroclastshovel": "Пірокластова Лопата",
   "item.nesenmod.pyroclastsword": "Пірокластовий Меч",
+
+  "block.nesenmod.cryostal_block": "Криосталевий Блок",
+  "block.nesenmod.cryostal_ore": "Криосталева руда",
+  "block.nesenmod.deepslate_cryostal_ore": "Криосталева Руда в Глибокому Сланці",
+  "block.nesenmod.pyroclast_block": "Пірокластовий блок",
+  "block.nesenmod.pyroclast_ore": "Пірокластова руда",
 
   "creativetab.primordial_tab": "Первісні уламки"
 }

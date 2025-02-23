@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "nesenmod:pyroclastingot"
+    }
+  },
+  "result": {
+    "item": "nesenmod:pyroclast_block",
+    "result": 1
+  }
+}

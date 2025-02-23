@@ -1,4 +1,5 @@
 {
+  "item.nesenmod.raw_cryostal": "Raw Cryostal",
   "item.nesenmod.cryostalingot": "Cryostal Ingot",
   "item.nesenmod.cryostalnugget": "Cryostal Nugget",
   "item.nesenmod.cryostalaxe": "Cryostal Axe",
@@ -6,6 +7,7 @@
   "item.nesenmod.cryostalpickaxe": "Cryostal Pickaxe",
   "item.nesenmod.cryostalshovel": "Cryostal Shovel",
   "item.nesenmod.cryostalsword": "Cryostal Sword",
+  "item.nesenmod.raw_pyroclast": "Raw Pyroclast",
   "item.nesenmod.pyroclastingot": "Pyroclast Ingot",
   "item.nesenmod.pyroclastnugget": "Pyroclast Nugget",
   "item.nesenmod.pyroclastaxe": "Pyroclast Axe",
@@ -14,11 +16,15 @@
   "item.nesenmod.pyroclastshovel": "Pyroclast Shovel",
   "item.nesenmod.pyroclastsword": "Pyroclast Sword",
 
+  "item.nesenmod.ashstone": "Ashstone",
+
   "block.nesenmod.cryostal_block": "Cryostal Block",
   "block.nesenmod.cryostal_ore": "Cryostal Ore",
   "block.nesenmod.deepslate_cryostal_ore": "Deepslate Cryostal Ore",
   "block.nesenmod.pyroclast_block": "Pyroclast Block",
   "block.nesenmod.pyroclast_ore": "Pyroclast Ore",
+
+  "block.nesenmod.ashstone_ore": "Ashstone Ore",
 
   "creativetab.primordial_tab": "Primordial Shards"
 }

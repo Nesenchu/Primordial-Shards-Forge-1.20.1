@@ -16,6 +16,9 @@ public class ModItems {
         ITEMS.register(eventBus);
     }
 
+    public static final RegistryObject<Item> RAW_CRYOSTAL = ITEMS.register("raw_cryostal",
+            ()-> new Item(new Item.Properties()));
+
     public static final RegistryObject<Item> CRYOSTAL_INGOT = ITEMS.register("cryostalingot",
             ()-> new Item(new Item.Properties()));
 
@@ -39,6 +42,9 @@ public class ModItems {
 
 
 
+    public static final RegistryObject<Item> RAW_PYROCLAST = ITEMS.register("raw_pyroclast",
+            ()-> new Item(new Item.Properties()));
+
     public static final RegistryObject<Item> PYROCLAST_INGOT = ITEMS.register("pyroclastingot",
             ()-> new Item(new Item.Properties()));
 
@@ -60,4 +66,7 @@ public class ModItems {
     public static final RegistryObject<Item> PYROCLAST_SWORD = ITEMS.register("pyroclastsword",
             ()-> new Item(new Item.Properties()));
 
+
+    public static final RegistryObject<Item> ASHSTONE = ITEMS.register("ashstone",
+            ()-> new Item(new Item.Properties()));
 }

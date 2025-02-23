@@ -20,6 +20,7 @@ public class ModCreativeModTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.CRYOSTAL_INGOT.get()))
                     .title(Component.translatable("creativetab.primordial_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
+                        output.accept(ModItems.RAW_CRYOSTAL.get());
                         output.accept(ModItems.CRYOSTAL_INGOT.get());
                         output.accept(ModItems.CRYOSTAL_NUGGET.get());
                         output.accept(ModItems.CRYOSTAL_AXE.get());
@@ -30,6 +31,7 @@ public class ModCreativeModTabs {
                         output.accept(ModBlocks.CRYOSTAL_BLOCK.get());
                         output.accept(ModBlocks.CRYOSTAL_ORE.get());
                         output.accept(ModBlocks.DEEPSLATE_CRYOSTAL_ORE.get());
+                        output.accept(ModItems.RAW_PYROCLAST.get());
                         output.accept(ModItems.PYROCLAST_INGOT.get());
                         output.accept(ModItems.PYROCLAST_NUGGET.get());
                         output.accept(ModItems.PYROCLAST_AXE.get());
@@ -39,6 +41,8 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.PYROCLAST_SWORD.get());
                         output.accept(ModBlocks.PYROCLAST_BLOCK.get());
                         output.accept(ModBlocks.PYROCLAST_ORE.get());
+                        output.accept(ModItems.ASHSTONE.get());
+                        output.accept(ModBlocks.ASHSTONE_ORE.get());
 
                     })
                     .build());
